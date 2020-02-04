@@ -1,3 +1,4 @@
+//in the name of god
 #include <stdio.h>
 #include <stdbool.h>
 #include <stdlib.h>
