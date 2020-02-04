@@ -1,4 +1,4 @@
-
+//in the name of god
 #include <stdio.h>
 #include <stdbool.h>
 #include <stdlib.h>
@@ -208,7 +208,6 @@ void chat()
         {
             char token[35];
             sscanf(buffer, "%s%s\n", order, token);
-            RemoveCama(token);
 
             if(CheckToken(token) && CheckChannel(token)){
                 printf("messages are : \n");
@@ -547,6 +546,7 @@ void MyJson(char* type, char* content)
 
 void ShowMessages(char* t)
 {
+
     int line;
     char ch[20];
     int u=0;
