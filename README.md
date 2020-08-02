@@ -1,12 +1,9 @@
 # BP-Project
 
-### SUT - Autumn-98 {# test-id}
+### SUT - Autumn-98
 
-test **Markdown**
+This is a simple chat-application.
 
-|name     |
-|---------|
-|MJavadHzr|
-^_^
-
-test [links](#test-id)
+* Phase1 : implementation of client
+* Phase2 : implementation of server
+* Phase3 : some how implementation of JSON
