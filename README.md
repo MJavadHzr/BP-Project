@@ -1,6 +1,6 @@
 # BP-Project
 
-### SUT - Autumn-98 {###header}
+### SUT - Autumn-98 {#test-id}
 
 test **Markdown**
 
@@ -9,4 +9,4 @@ test **Markdown**
 |MJavadHzr|
 ^_^
 
-test [links](#header)
+test [links](#test-id)
